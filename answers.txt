@@ -1,5 +1,4 @@
 1.What is a gitignore file and what should it include for a Java project? 
-
 gitignore tells which files to ignore for git when commiting into your project. It should include
 .class,.jar,.war
 
